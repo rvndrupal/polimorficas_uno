@@ -1,0 +1,70 @@
+.foto_seccion {
+    width: 130px;
+    height: 100px;
+}
+
+.seccion_home {
+    width: 555px;
+    height: 555px;
+}
+
+.uno {
+    width: 643px;
+    height: 300px;
+}
+
+.dos_1,
+.dos_2 {
+    width: 320px;
+    height: 150px;
+}
+
+.tres_1 {
+    width: 643px;
+    height: 300px;
+    margin: 0px 0 7px 0px;
+}
+
+.tres_2,
+.tres_3 {
+    width: 320px;
+    height: 150px;
+}
+
+.video iframe {
+    width: 640px;
+    margin: 46px 0 0 0px;
+}
+
+.parallaxuno {
+    background-image: url("/parallax/dos.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-attachment: fixed;
+}
+
+.parallaxdos {
+    background-image: url("/parallax/tres.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-attachment: fixed;
+}
+
+.espacio {
+    margin: 52px 0 0 0;
+}
+
+.b10 {
+    margin: -157px 0 0 0;
+}
+
+.pdf {
+    margin: 39px 0 0 576px;
+    position: absolute;
+}
+
+.maps {
+    margin: 200px 0 0 0px;
+}
